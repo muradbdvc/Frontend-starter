@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   margin: 0;
   padding: 0;
@@ -10,4 +14,13 @@
 
 .read-the-docs:hover {
   color: aqua;
-}/*# sourceMappingURL=style.css.map */
+}
+
+.button{
+  padding: 10px 15px;
+  background-color: rgb(7, 80, 7);
+  color: white;
+  font-weight: 700;
+  border-radius: 7px;
+}
+/*# sourceMappingURL=style.css.map */
