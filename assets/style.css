@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  margin: auto !important;
+  padding: auto !important;
+}
+
+.read-the-docs:hover {
+  color: aqua;
+}/*# sourceMappingURL=style.css.map */
